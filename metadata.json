@@ -1,0 +1,6 @@
+{
+  "name": "Solentra Energy - Modern Solar Engineering & Installation",
+  "description": "Premium residential, commercial, and industrial rooftop solar installation, high-efficiency inverters, battery storage, and turnkey clean energy systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
