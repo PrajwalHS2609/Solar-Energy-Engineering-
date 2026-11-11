@@ -7,11 +7,19 @@ import {
   Testimonial,
 } from '../types/solar';
 
-export const HERO_IMAGE = '/src/assets/images/hero_solar_rooftop_1794399051649.jpg';
-export const RESIDENTIAL_IMAGE = '/src/assets/images/residential_solar_villa_1794399051236.jpg';
-export const COMMERCIAL_IMAGE = '/src/assets/images/commercial_solar_campus_1794399053331.jpg';
-export const INDUSTRIAL_IMAGE = '/src/assets/images/industrial_solar_warehouse_1794399053315.jpg';
-export const BATTERY_IMAGE = '/src/assets/images/solar_battery_storage_system_1794399053258.jpg';
+import HERO_IMAGE from '../assets/images/hero_solar_rooftop_1794399051649.jpg';
+import RESIDENTIAL_IMAGE from '../assets/images/residential_solar_villa_1794399051236.jpg';
+import COMMERCIAL_IMAGE from '../assets/images/commercial_solar_campus_1794399053331.jpg';
+import INDUSTRIAL_IMAGE from '../assets/images/industrial_solar_warehouse_1794399053315.jpg';
+import BATTERY_IMAGE from '../assets/images/solar_battery_storage_system_1794399053258.jpg';
+
+export {
+  HERO_IMAGE,
+  RESIDENTIAL_IMAGE,
+  COMMERCIAL_IMAGE,
+  INDUSTRIAL_IMAGE,
+  BATTERY_IMAGE,
+};
 
 export const COMPANY_STATS = [
   { value: '48.6 MWp', label: 'Total Capacity Installed' },
